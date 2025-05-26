@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/056d721d-394d-4675-adc2-27fce349ef4c
 
 [Video Rank](https://chatgpt.com/g/g-6774f84a32048191b10aeb0e7840263f-video-rank)
 <br>
-[Video Mem Compiler](https://chatgpt.com/g/g-NuNFDGDZc-video-meme-compiler)
+[Video Meme Compiler](https://chatgpt.com/g/g-NuNFDGDZc-video-meme-compiler)
 <br>
 [Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
 <br>
