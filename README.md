@@ -10,6 +10,12 @@ Video clips, recordings, and editing are foundational elements in modern digital
 
 #
 
+![Timelapse](https://github.com/user-attachments/assets/9d7a5735-22e1-48c8-9afb-26c620dd3217)
+
+[Timelapse Program](https://chatgpt.com/g/g-67d1e2d3439081919cb2798683bc3f82-timelapse-program) was developed to help users create detailed and dynamic timelapse camera systems. It guides users step-by-step through setting up a continuous image capture process that can span hours, days, or even months. The system organizes each snapshot with metadata like time, location, and environmental conditions, and automatically adjusts camera settings to maintain consistent image quality. As images are collected, the GPT helps stitch them into a smooth timelapse video or interactive timeline. It also highlights key changes in the scene, supports cloud syncing and sharing, and includes real-time monitoring and automatic backups. Post-processing tools like noise reduction and color correction ensure a polished final product, making this tool ideal for documenting evolving environments or projects.
+
+#
+
 ![Fails](https://github.com/user-attachments/assets/c5400adf-31d9-424b-8a08-9ae91b01c2f5)
 
 [Fail Video](https://chatgpt.com/g/g-677ab5fde59481919858f530c7abf3cf-fail-video) creates funny, lighthearted fail video concepts that cleverly showcase a product or service. Its goal is to turn everyday mishaps into laugh-out-loud moments where the featured product either saves the day or hilariously "fails forward" in an entertaining way. Whether it's a cleaning product erasing a spaghetti explosion from a white couch or outdoor gear surviving a ridiculous adventure, this GPT crafts scenes filled with exaggerated reactions, slapstick humor, and unexpected twists. The end result is a family-friendly, engaging video idea that not only makes viewers laugh but also highlights the effectiveness and appeal of the product being promoted.
