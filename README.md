@@ -26,6 +26,8 @@ GIFs, or Graphics Interchange Format files, are a popular type of digital image 
 
 https://github.com/user-attachments/assets/056d721d-394d-4675-adc2-27fce349ef4c
 
+[Movie Developer](https://chatgpt.com/g/g-GKuoUegIF-movie-developer) was made to assist filmmakers, screenwriters, and creative professionals in developing original movie ideas and crafting compelling scripts. It offers support throughout the filmmaking process—from brainstorming unique story concepts and building rich characters, to structuring scenes and refining dialogue. With a deep understanding of film genres, narrative techniques, and production planning, it helps users bring their cinematic visions to life. Whether you're polishing a screenplay or outlining a new project, Movie Developer provides creative guidance, constructive feedback, and professional insight tailored to the art of storytelling for the screen.
+
 #
 
 [Video Rank](https://chatgpt.com/g/g-6774f84a32048191b10aeb0e7840263f-video-rank)
