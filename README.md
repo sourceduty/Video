@@ -4,7 +4,7 @@ Video clips, recordings, and editing are foundational elements in modern digital
 
 #
 
-![Climax Points](https://github.com/user-attachments/assets/26853d30-0e8b-47ce-85d4-c5f30880273c)
+![Fake Porn](https://github.com/user-attachments/assets/03956532-abbe-4d9b-8938-b12e0011cfe3)
 
 [Video Climax](https://chatgpt.com/g/g-676f2f0556b88191b2e3e82baaea335d-video-climax) specializes in analyzing videos to identify their major and minor climax points with precision. It focuses on the emotional and narrative arc of the content, detecting the highest moment of tension or turning point—typically the major climax—where the stakes are greatest or a decisive event occurs. In addition, it identifies minor climaxes, which are smaller peaks of intensity that build suspense and engage the viewer as the story progresses. By examining elements such as plot developments, visual cues, and musical changes, Video Climax provides a structured breakdown of the dramatic flow within a video.
 
