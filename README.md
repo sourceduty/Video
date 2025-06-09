@@ -35,8 +35,11 @@ https://github.com/user-attachments/assets/056d721d-394d-4675-adc2-27fce349ef4c
 [Movie Developer](https://chatgpt.com/g/g-GKuoUegIF-movie-developer) was made to assist filmmakers, screenwriters, and creative professionals in developing original movie ideas and crafting compelling scripts. It offers support throughout the filmmaking process—from brainstorming unique story concepts and building rich characters, to structuring scenes and refining dialogue. With a deep understanding of film genres, narrative techniques, and production planning, it helps users bring their cinematic visions to life. Whether you're polishing a screenplay or outlining a new project, Movie Developer provides creative guidance, constructive feedback, and professional insight tailored to the art of storytelling for the screen.
 
 #
-![Fake Porn](https://github.com/user-attachments/assets/03956532-abbe-4d9b-8938-b12e0011cfe3)
-![Movie](https://github.com/user-attachments/assets/34ee2313-39b7-4bd5-9d65-e10a15e386bd)
+
+![Tube Views](https://github.com/user-attachments/assets/883a9382-5143-46ac-bf79-7ee48379e7f5)
+
+[Tube Cool](https://chatgpt.com/g/g-68470d3accf48191bc8742959662c856-tube-cool) analyzes the current relevance and popularity of YouTube videos and channels—going beyond raw view counts and subscriber numbers. Instead of simply looking at lifetime stats, it digs into metrics like recent view velocity, engagement trends over time, like-to-view ratios, and how actively content is still being recommended or commented on. Its goal is to help users avoid being misled by the illusion of relevance created by outdated or cumulative data. Tube Cool provides a deeper, time-sensitive interpretation of content performance, helping users understand whether a video or channel is still influential and trending today, or if it has faded from current viewer interest despite high historical numbers.
+
 #
 
 [Video Rank](https://chatgpt.com/g/g-6774f84a32048191b10aeb0e7840263f-video-rank)
